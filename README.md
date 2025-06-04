@@ -101,6 +101,6 @@ Through this project, I gained hands-on experience in:
 
 Feel free to reach out for feedback or collaboration:
 
-* Name: \Deep Gheewala
-* Email: \deepgheewala04@gmail.com
-* LinkedIn: \https://www.linkedin.com/in/deep-gheewala-a1747a259/
+* Name: Deep Gheewala
+* Email: deepgheewala04@gmail.com
+* LinkedIn: https://www.linkedin.com/in/deep-gheewala-a1747a259/
